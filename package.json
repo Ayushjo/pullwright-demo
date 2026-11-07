@@ -1,0 +1,10 @@
+{
+  "name": "pullwright-demo",
+  "version": "1.0.0",
+  "description": "A small utility library used for Pullwright's live demo.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
